@@ -1,4 +1,4 @@
-# Blog REST APPI
+# Blog REST API
 
 Blog API with user authorization and token authentication made using Django Rest Framework. 
 
